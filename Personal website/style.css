@@ -225,3 +225,8 @@ html {
     left: 1250px;
     top:430px;
   }
+  .contact {
+    position: absolute;
+    left:1140px;
+    top:-430px;
+  }
