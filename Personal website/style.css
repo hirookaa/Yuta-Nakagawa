@@ -1,0 +1,227 @@
+html {
+  background-color: black;
+}
+  img {
+    height: 60px;
+
+  }
+  h1 {
+    font-style: italic;
+    color:white;
+    font-size: 70px;
+    left:343px;
+    letter-spacing: 17.50px;
+    position: absolute;
+    text-align: center;
+    top:-15px;
+    width:844px;
+  }
+  h2 {
+    font-style: italic;
+    color: white;
+    font-size: 25px;
+    left:25px;
+    letter-spacing: 17.50px;
+    position: absolute;
+    text-align: center;
+    top:250px;
+    width:263px;
+  }
+  h3 {
+    font-style: italic;
+    color: white;
+    font-size: 25px;
+    left:0px;
+    letter-spacing: 17.50px;
+    position: absolute;
+    text-align: center;
+    top:350px;
+    width:263px;
+  }
+  h4 {
+    font-style: italic;
+    color: white;
+    font-size: 25px;
+    left:-30px;
+    letter-spacing: 17.50px;
+    position: absolute;
+    text-align: center;
+    top:150px;
+    width:293px;
+  }
+  h5 {
+    font-style: italic;
+    color: white;
+    font-size: 25px;
+    left:35px;
+    letter-spacing: 17.50px;
+    position: absolute;
+    text-align: center;
+    top:450px;
+    width:200px;
+  }
+  p {
+    font-style: italic;
+    color: white;
+    font-size: 50px;
+    left:450px;
+    letter-spacing: 17.50px;
+    position: absolute;
+    text-align: center;
+    top:300px;
+    background-image:url(../Img/Homepage image.png);
+  }
+  .image {
+    background-image: url(homepage.png);
+    height: 565px;
+    top:120px;
+    width: 1060px;
+    left: 370px;
+  }
+  a {
+  text-decoration: none;
+  color:white;
+  }
+  .text {
+    position: absolute;
+    top: 350px;
+    left:500px;
+    font-style: italic;
+    font-size: 50px;
+    width: 600px;
+  }
+
+  .subtitle {
+    position:relative;
+    color:white;
+    top:70px;
+    font-size:50px;
+    font-style: italic;
+  }
+  .tricking {
+    position:relative;
+    left: 600px;
+    color:white;
+    top:230px;
+    font-size:50px;
+    font-style: italic;
+  }
+  .me {
+    position:relative;
+    left: -150px;
+    color:white;
+    top:-430px;
+    font-size:20px;
+    font-style: italic;
+  }
+  .friend {
+    position:relative;
+    left: -450px;
+    color:white;
+    top:-70px;
+    font-size:30px;
+    font-style: italic;
+    width:1000px;
+  }
+  .logo {
+    top:400px;
+    left: 300px;
+  }
+  .b {
+    position: absolute;
+    top:450px;
+    height: 400px;
+    left: 800px;
+    width:300px;
+  }
+  .z {
+    position:absolute;
+    top:450px;
+    height: 400px;
+    left: 550px;
+
+  }
+  .title {
+    position:absolute;
+    color:white;
+    top:100px;
+    font-size:50px;
+    font-style: italic;
+
+  }
+  .Guitar {
+    position:absolute;
+    left: 600px;
+    color:white;
+    top:430px;
+    font-size:50px;
+    font-style: italic;
+  }
+  .m {
+    font-style: italic;
+    color: white;
+    font-size: 40px;
+    left:0px;
+    letter-spacing: 17.50px;
+    position: absolute;
+    text-align: center;
+    top:530px;
+    width: 600px;
+  }
+  .n {
+    font-style: italic;
+    color: white;
+    font-size: 40px;
+    left:0px;
+    letter-spacing: 17.50px;
+    position: absolute;
+    text-align: center;
+    top:200px;
+    width: 600px;
+  }
+  .g {
+    position: absolute;
+    height: 280px;
+    top: 550px;
+    left: 650px;
+  }
+  .s {
+    position: absolute;
+    height: 270px;
+    top: 200px;
+    left: 600px;
+    }
+  .j {
+    position: absolute;
+    height: 260px;
+    top: 200px;
+    left: 900px;
+    }
+  .k {
+    position: absolute;
+    height: 260px;
+    top: 200px;
+    left: 1200px;
+    }
+  .h {
+    position: absolute;
+    height:300px;
+    top:500px;
+    left: 1100px;
+    width:500px;
+  }
+  .e {
+    position: absolute;
+    height: 300px;
+    top:500px;
+    left: 900px;
+    width: 500px;
+  }
+  .video {
+    top:450px;
+    left:910px;
+  }
+  .v {
+    left: 1250px;
+    top:430px;
+  }
